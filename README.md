@@ -31,6 +31,8 @@ This GitHub repository contains code for a Movie Recommender System.  It consist
    - Install required libraries, including Streamlit, and run the Streamlit script.
 
    - Users can open the web app in a browser, select a movie, and receive recommendations.
+  
+   - PyCharm , Vscode can be used to run Streamlit
 
 ## Streamlit in Simple Words
 
